@@ -19,6 +19,10 @@ function preload(){
   //Remova os comentários corretos da linha de código para carregar a imagem gameOver.png
   
    //gover=gameOver.png;
+  
+  //gameOver.png=Load();
+  
+  //gover = loadImage("gameOver.png");
  
 }
 
@@ -92,9 +96,9 @@ function draw() {
         swordGroup.setVelocityYEach(0);
         //Remova os comentários corretos da linha de código para exibir 'game over' (fim de jogo)
 
-        //  over = createSprite(180,280,20,20);
-        //  over.addAnimation("gameover",gover);
-        //  over.scale=0.7;
+         over = createSprite(180,280,20,20);
+         over.addAnimation("gameover",gover);
+         over.scale=0.7;
      
     }
   }
