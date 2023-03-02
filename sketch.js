@@ -92,17 +92,9 @@ function draw() {
         swordGroup.setVelocityYEach(0);
         //Remova os comentários corretos da linha de código para exibir 'game over' (fim de jogo)
 
-        //  over = createSprite(880,9980,20,20);
-        //  over.addAnimation("gameover",gover);
-        //  over.scale=0.7
-
         //  over = createSprite(180,280,20,20);
         //  over.addAnimation("gameover",gover);
-        //  over.scale=0.7
-
-        //  over = createSprite(180,280,20,20);
-        //  over.addAnimation(gover);
-        //  over.scale=0.7
+        //  over.scale=0.7;
      
     }
   }
