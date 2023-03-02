@@ -18,7 +18,7 @@ function preload(){
   gover = loadImage("gameOver.png");
   //Remova os comentários corretos da linha de código para carregar a imagem gameOver.png
   
-  //gover = loadImage("gameOver.png");
+   //gover=gameOver.png;
  
 }
 
